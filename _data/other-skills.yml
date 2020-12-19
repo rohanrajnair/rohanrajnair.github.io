@@ -1,19 +1,19 @@
+- name: Self Improvement
+  percentage: 95
+  color: success
+
+- name: Learning
+  percentage: 90
+  color: success
+  
 - name: Music
   percentage: 80
-  color:
+  color: 
 
-- name: Running
+- name: Exercise
   percentage: 75
   color: 
 
-- name: Research
-  percentage: 70
-  color: danger
-
-- name: Chinese
+- name: Spanish
   percentage: 60
-  color: danger
-
-- name: Japanese
-  percentage: 50
   color: danger
