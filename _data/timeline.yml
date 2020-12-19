@@ -1,27 +1,36 @@
-- title: Incoming SDE Intern, Amazon
+- title: Incoming Software Development Intern, Amazon
   from: May 2020
   to: Aug 2020
 
 - title: Graduate Research Assistant, University of Virginia
   from: Nov 2020
   to: present
-  description: • Working with Dr. Kevin Sullivan and Dr. Sebastian Elbaum on NSF-funded project on ensuring consistency of code with real-world physics using compilation, static analysis, formal methods, and robotics
+  description: • Working with Dr. Kevin Sullivan and Dr. Sebastian Elbaum on NSF-funded project on ensuring consistency of code with real-world physics using compilation, static analysis, formal methods, and robotics<br>
                • Undertaking experimentation to check for physical type errors in large bodies of C++/ROS code
+ 
+- title: MS in Computer Science, University of Virginia, GPA: 4.0
+  from: Aug 2020
+  to: May 2022
+  description: • Honors & Awards: Department of Computer Science Academic Excellence Fellowship<br>
+               • Coursework: Machine Learning, Computer Vision, NLP, Software Logic, Cloud Computing
 
-- title: Software Development Intern, Altec
-  from: 2018
-  to: present
-  description: • Reduce miscommunication between service centers globally by engineering new Angular web applications<br>
-               • Maintain the testing environments of in-house applications by writing LINQ queries and tuning up test databases<br>
-               • Build secure back end APIs with the Spring framework in an agile development setting
-
-- title: B.S. in Computer Science, Missouri Western State University
-  from: 2016
-  to: 2020
-  description: • Alpha Chi Honor Society, Lambda Chapter<br>
-               • Kappa Mu Epsilon Honor Society - President of the Missouri Lambda Chapter<br>
-               • General Studies Honors Program<br>
-               • 2017 NCNA Regional Programming Contest<br>
-               • 2017 Grand Midwest Asynchronous Programming Contest<br>
-               • 2018 CSCC Central Plains Poster Competition & Programming Contest<br>
-               • 2019 Alpha Chi National Convention Research & Creativity Forum
+- title: HPC Software Development Intern, Intel
+  from: Jan 2020
+  to: July 2020
+  description: • Tested and added endpoints to Flask application to determine utilization + storage info for high-performance computing (HPC) machines<br>
+               • Created dashboards and visualizations using Kibana and custom filters to display various telemetry data<br>
+               • Configured Grok and JSON filters in Logstash for parsing logs and imported data into Elasticsearch
+               
+- title: Software Development Intern, Fungible, Inc. 
+  from: April 2019
+  to: Aug 2019
+  description: • Worked on QA infrastructure for performing large-scale tests using Angular, Django, Python, and PostgreSQL<br>
+               • Built internal search application used by 100+ engineers using Boostrap and Angular router navigation<br>
+               • Visualized and analyzed performance data using Highcharts and executed dashboard feature improvements
+               
+- title: BS in Computer Science, Minor in Mathematics, Santa Clara University, GPA: 3.6
+  from: Sep 2016
+  to: March 2020
+  description: • Honors & Awards: Dean's List (2016 - 2018), Distinguished First-Year Student<br>
+               • STEM Committee Chair - Alpha Kappa Psi, Psi Omega Chapter<br>
+               • Coursework: Applied ML, Cryptography, Computer Security, OS, Computer Architecture
