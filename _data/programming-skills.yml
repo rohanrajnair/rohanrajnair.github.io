@@ -2,7 +2,7 @@
   percentage: 90
   color: success
 
-- name: Java
+- name: C/C++
   percentage: 85
   color:
 
@@ -14,14 +14,6 @@
   percentage: 75
   color:
 
-- name: C
-  percentage: 70
-  color:
-
 - name: SQL
   percentage: 65
-  color: danger
-
-- name: R
-  percentage: 60
   color: danger
