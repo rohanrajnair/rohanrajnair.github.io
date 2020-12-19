@@ -7,12 +7,6 @@
   to: present
   description: • Working with Dr. Kevin Sullivan and Dr. Sebastian Elbaum on NSF-funded project on ensuring consistency of code with real-world physics using compilation, static analysis, formal methods, and robotics<br>
                • Undertaking experimentation to check for physical type errors in large bodies of C++/ROS code
- 
-- title: M.S in Computer Science, University of Virginia
-  from: Aug 2020
-  to: May 2022
-  description: • Honors & Awards - Department of Computer Science Academic Excellence Fellowship<br>
-               • Coursework - Machine Learning, Computer Vision, NLP, Software Logic, Cloud Computing
 
 - title: HPC Software Development Intern, Intel
   from: Jan 2020
@@ -28,10 +22,3 @@
                • Built internal search application used by 100+ engineers using Boostrap and Angular router navigation<br>
                • Visualized and analyzed performance data using Highcharts and executed dashboard feature improvements
                
-- title: B.S in Computer Science, Santa Clara University
-  from: Sep 2016
-  to: March 2020
-  description: • Minor in Mathematics<br>
-               • Honors & Awards - Dean's List (2016 - 2018), Distinguished First-Year Student<br>
-               • STEM Committee Chair - Alpha Kappa Psi, Psi Omega Chapter<br>
-               • Coursework - Applied ML, Cryptography, Computer Security, OS, Computer Architecture
