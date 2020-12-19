@@ -1,7 +1,12 @@
-- title: Ph.D in Computer Science, University of Missouri
-  from: 2020
+- title: Incoming SDE Intern, Amazon
+  from: May 2020
+  to: Aug 2020
+
+- title: Graduate Research Assistant, University of Virginia
+  from: Nov 2020
   to: present
-  description: • Research machine learning and its applications to bioinformatics and computer vision
+  description: • Working with Dr. Kevin Sullivan and Dr. Sebastian Elbaum on NSF-funded project on ensuring consistency of code with real-world physics using compilation, static analysis, formal methods, and robotics
+               • Undertaking experimentation to check for physical type errors in large bodies of C++/ROS code
 
 - title: Software Development Intern, Altec
   from: 2018
