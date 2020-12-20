@@ -1,21 +1,21 @@
-- title: Incoming Software Development Intern, Amazon
+- title: Incoming Software Development Intern @ Amazon
   from: May 2020
   to: Aug 2020
 
-- title: Graduate Research Assistant, University of Virginia
+- title: Graduate Research Assistant @ University of Virginia
   from: Nov 2020
   to: present
   description: • Working with Dr. Kevin Sullivan and Dr. Sebastian Elbaum on NSF-funded project on ensuring consistency of code with real-world physics using compilation, static analysis, formal methods, and robotics<br>
                • Undertaking experimentation to check for physical type errors in large bodies of C++/ROS code
 
-- title: HPC Software Development Intern, Intel
+- title: HPC Software Development Intern @ Intel
   from: Jan 2020
   to: July 2020
   description: • Tested and added endpoints to Flask application to determine utilization + storage info for high-performance computing (HPC) machines<br>
                • Created dashboards and visualizations using Kibana and custom filters to display various telemetry data<br>
                • Configured Grok and JSON filters in Logstash for parsing logs and imported data into Elasticsearch
                
-- title: Software Development Intern, Fungible, Inc. 
+- title: Software Development Intern @ Fungible, Inc. 
   from: April 2019
   to: Aug 2019
   description: • Worked on QA infrastructure for performing large-scale tests using Angular, Django, Python, and PostgreSQL<br>
