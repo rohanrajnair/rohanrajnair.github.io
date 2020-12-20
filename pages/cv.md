@@ -9,4 +9,4 @@ weight: 1
 
 # **CV**
 
-The latest changes to <a target='_blank' rel='noopener noreferrer' href="https://amorehead.github.io/assets/pdf/Alex%20Morehead's%20Curriculum%20Vitae.pdf" >my CV</a> can be found here on my portfolio.
+My most up-to-date <a target='_blank' rel='noopener noreferrer' href="https://rohanrajnair.github.io/assets/pdf/Rohan-Resume.pdf" >CV</a> can be found here.
